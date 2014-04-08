@@ -22,6 +22,9 @@
    "node":"0.8.x",
     "npm":"1.1.x"
    },
+   "scripts":{
+      "start": "node web.js"
+    },
   "author": "sahel mastoureshgh",
   "license": "ISC"
 }
