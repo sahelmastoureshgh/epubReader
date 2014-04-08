@@ -1,0 +1,23 @@
+{
+  "name": "EpubReader",
+  "version": "0.0.0",
+  "description": "Read epub books by uploading books",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "colors": "*",
+    "connect": "*",
+    "formidable": "*",
+    "fs-extra": "*",
+    "http": "*",
+    "optimist": "*",
+    "portfinder": "*",
+    "util": "*"
+
+
+  },
+  "author": "sahel mastoureshgh",
+  "license": "ISC"
+}
